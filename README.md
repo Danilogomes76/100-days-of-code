@@ -10,4 +10,4 @@
 
 **Aprendizados:** Eu tive dificuldades em configurar o Jest com Es6 Module, mas consegui no final, sobre o código, o desafio de hj, foi relativamente simples.
 
-**Link do trabalho:** [Conversor de Anos para Sias](/day-1/)
+**Link do trabalho:** [Conversor de Anos para Dias](/month-1/week-01/day-1/)
