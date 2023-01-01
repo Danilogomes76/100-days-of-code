@@ -9,6 +9,9 @@ lerna-debug.log*
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
+# Ignore files with "snaps" in the name
+*snaps*
+
 # Runtime data
 pids
 *.pid
