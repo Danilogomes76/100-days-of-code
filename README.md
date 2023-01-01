@@ -1,7 +1,5 @@
 # Eu estou participando do desafio #100DaysOfCode
 
-## Conteúdo
-
 # 100 Days Of Code - Log
 
 ### Dia 1: 1 de janeiro, 2023
