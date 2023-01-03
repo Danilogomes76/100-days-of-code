@@ -17,3 +17,11 @@
 **Aprendizados:** Demorei um pouco pensando em como separaria a frase em palavras para checar se contia a palavra.
 
 **Link do trabalho:** [Procurando o Nemo](/month-1/week-01/day-2/)
+
+### Dia 3: 3 de janeiro, 2023
+
+**Progresso do dia:** Descobri que posso usar o '!' para negar dentro do metodo filter "!skewer.includes("x")" deste modo ele pega o que não inclue o 'x'. E tambem conheci um modo de verificar se o item passado é um array com o "Array.isArray(arrayParaVerificar)" que retorna um boolean.
+
+**Aprendizados:** Quebrei um pouco a cabeça tentando encaixar o metodo "contains" no filter, mas no final eu estava confundindo com o "includes". o chayGtp me ajudou a entender a diferença desses métodos.
+
+**Link do trabalho:** [Contador de Espetos](/month-1/week-01/day-3/)
