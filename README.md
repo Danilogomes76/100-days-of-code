@@ -25,3 +25,11 @@
 **Aprendizados:** Quebrei um pouco a cabeça tentando encaixar o metodo "contains" no filter, mas no final eu estava confundindo com o "includes". o chayGtp me ajudou a entender a diferença desses métodos.
 
 **Link do trabalho:** [Contador de Espetos](/month-1/week-01/day-3/)
+
+### Dia 4: 4 de janeiro, 2023
+
+**Progresso do dia:** Ganhei conhecimento sobre o método de array "every" que checka se cada elemento do array passa na condição, aprendi um pouco mais sobre o loop for, descobrindo que posso pegar o valor anterior começando com "i = 1" e diminuindo 1 no valor anterior(array[i - 1]).
+
+**Aprendizados:** Considero esse o mais dificil até agora, pois eu não tenho uma base muito sólida sobre o loop for em js, mas no final eu consegui concluir.
+
+**Link do trabalho:** [Contador de Dias de Progresso](/month-1/week-01/day-4/)
