@@ -11,7 +11,7 @@ describe("Socks", () => {
     expect(socks.countPairs()).toBe(1);
   });
 
-  it("should return a 0 pair socks", () => {
+  it("should return a zero pair socks", () => {
     const socks = new Socks("");
     expect(socks.countPairs()).toBe(0);
   });
