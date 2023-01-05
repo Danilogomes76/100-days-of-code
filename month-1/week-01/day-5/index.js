@@ -10,10 +10,10 @@ export class Socks {
       const socks = this.socks.split("").sort();
 
       let pairs = 0;
-
-      for (let index = 0; index < socks.length; index += 2) {
+      for (let index = 0; index < socks.length; index++) {
         if (socks[index] == socks[index + 1]) {
           pairs++;
+          index++;
         }
       }
 
