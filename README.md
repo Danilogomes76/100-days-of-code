@@ -33,3 +33,11 @@
 **Aprendizados:** Considero esse o mais dificil até agora, pois eu não tenho uma base muito sólida sobre o loop for em js, mas no final eu consegui concluir.
 
 **Link do trabalho:** [Contador de Dias de Progresso](/month-1/week-01/day-4/)
+
+### Dia 5: 5 de janeiro, 2023
+
+**Progresso do dia:** Eu aprendi a usar o tratador de error com o "Try..Catch" e a não mandar um erro falso, e tambem ganhei mais conhecimento sobre o loop for do js
+
+**Aprendizados:** Eu sofri bastante com o desafio de hoje, pois tambem usasse loops...Tive que recorrer a ajuda, e olhar um código de um parceiro do desafio, eu não copiei o código dele, mas tirei uma base.
+
+**Link do trabalho:** [Contador de Pares de Meias](/month-1/week-01/day-5/)
