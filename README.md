@@ -41,3 +41,11 @@
 **Aprendizados:** Eu sofri bastante com o desafio de hoje, pois tambem usasse loops...Tive que recorrer a ajuda, e olhar um código de um parceiro do desafio, eu não copiei o código dele, mas tirei uma base.
 
 **Link do trabalho:** [Contador de Pares de Meias](/month-1/week-01/day-5/)
+
+### Dia 6: 6 de janeiro, 2023
+
+**Progresso do dia:** Criei um método para validar se é primo e depois usei o retorna dela para verificação do loop while
+
+**Aprendizados:** o desafio de hoje foi dificil, tive que buscar ajuda...
+
+**Link do trabalho:** [Proxímo primo](/month-1/week-01/day-6/)
