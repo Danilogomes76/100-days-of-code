@@ -49,3 +49,11 @@
 **Aprendizados:** o desafio de hoje foi dificil, tive que buscar ajuda...
 
 **Link do trabalho:** [Proxímo primo](/month-1/week-01/day-6/)
+
+### Dia 7: 7 de janeiro, 2023
+
+**Progresso do dia:** O desafio de hoje foi tão facil comparado aos dois dias anteriores que me fez desconfiar se estava certo.
+
+**Aprendizados:** Hoje não aprendi muita coisa com esse desario, apenas usei o método concat pra juntar os dois arrays, apliquei o sort para ordenar, e depois passei um filtro que retira todos 0.
+
+**Link do trabalho:** [Juntar Matrizes(Array)](/month-1/week-01/day-7/)
