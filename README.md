@@ -57,3 +57,11 @@
 **Aprendizados:** Hoje não aprendi muita coisa com esse desario, apenas usei o método concat pra juntar os dois arrays, apliquei o sort para ordenar, e depois passei um filtro que retira todos 0.
 
 **Link do trabalho:** [Juntar Matrizes(Array)](/month-1/week-01/day-7/)
+
+### Dia 8: 8 de janeiro, 2023
+
+**Progresso do dia:** Estou feliz com o meu desempenho com loops no desafio de hoje, eu consegui deselvolver bem mais.
+
+**Aprendizados:** Aprendi sobre o "in" dentro do if que verifica se tal chave contem no obj, tambem utilizei o método continue para passar por um if e continuar com a execução do código.
+
+**Link do trabalho:** [Combinações de letras possíveis](/month-1/week-02/day-8/)
