@@ -65,3 +65,11 @@
 **Aprendizados:** Aprendi sobre o "in" dentro do if que verifica se tal chave contem no obj, tambem utilizei o método continue para passar por um if e continuar com a execução do código.
 
 **Link do trabalho:** [Combinações de letras possíveis](/month-1/week-02/day-8/)
+
+### Dia 9: 9 de janeiro, 2023
+
+**Progresso do dia:** Hoje não consegui fazer muito bem o desafio e tive que recorer ajuda do chatGtp.
+
+**Aprendizados:** Usei o some para tratar erro, ele passa por todo array e retorna um boolean caso algum elemento do array cumpra com o case.
+
+**Link do trabalho:** [Água presa](/month-1/week-02/day-9/)
