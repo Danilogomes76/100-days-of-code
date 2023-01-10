@@ -73,3 +73,11 @@
 **Aprendizados:** Usei o some para tratar erro, ele passa por todo array e retorna um boolean caso algum elemento do array cumpra com o case.
 
 **Link do trabalho:** [Água presa](/month-1/week-02/day-9/)
+
+### Dia 10: 10 de janeiro, 2023
+
+**Progresso do dia:** Criei uma função para checar se o valor era diferente de 0 se fosse ele chamaria o numero multiplicando a mesma função chamada - 1
+
+**Aprendizados:** Usei o try catch para capturar erro caso o typeof fosse diferente de "number".
+
+**Link do trabalho:** [BST](/month-1/week-02/day-10/)
